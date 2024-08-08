@@ -1,5 +1,4 @@
 <header>
-
 <!--
   <<< Author notes: Course header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
@@ -8,7 +7,6 @@
   Next to "About", add description & tags; disable releases, packages, & environments.
   Add your open source license, GitHub uses the MIT license.
 -->
-
 # Code with GitHub Copilot
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
